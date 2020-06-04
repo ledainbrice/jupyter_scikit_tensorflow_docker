@@ -1,1 +1,1 @@
-# jupyter_scikiy_tensorflow_docker
+# jupyter_scikit_tensorflow_docker
